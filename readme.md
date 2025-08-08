@@ -246,6 +246,3 @@ Xem từ giao diện prometheus. (localhost:9090)
 |redis_client_recent_max_input_buffer_bytes | Input buffer lớn nhất trong các client gần đây. |
 |redis_client_recent_max_output_buffer_bytes | Output buffer lớn nhất (giúp phát hiện client "treo"). |
 |redis_clients_in_timeout_table	| Số client đang nằm trong bảng timeout. |
-
-#### Cluster ####
-|
