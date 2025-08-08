@@ -1,0 +1,7 @@
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: 'redis'
+    static_configs:
+      - targets: ['171.244.139.224:9121']
